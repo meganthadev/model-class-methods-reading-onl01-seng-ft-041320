@@ -1866,6 +1866,7 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 17ms (Views: 15.5ms | ActiveRecord: 0.6ms)
 
 
+<<<<<<< HEAD
 Started GET "/posts" for 174.72.44.212 at 2020-07-05 06:10:39 +0000
 Cannot render console from 174.72.44.212! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
   [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
@@ -1987,3 +1988,5 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 19ms (Views: 17.1ms | ActiveRecord: 0.7ms)
 
 
+=======
+>>>>>>> 23dfbb25e0a7435a8b970e2ded6a810a7da814f8
